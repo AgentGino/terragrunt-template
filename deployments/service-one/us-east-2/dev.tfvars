@@ -1,0 +1,1 @@
+bucket_name = "qwik-tools-sample-service"
